@@ -23,6 +23,21 @@ public class ElectronicWatch {
 
         // Print the result
         System.out.printf("%s:%s:%s\n", formattedHours, formattedMinutes, formattedSeconds);
+        // some other methods to remember 
+        // converting a number to String
+        //  int number;
+        //  String numStr=String.valueOf(number);
+        //  converting a character to number;
+        //  for(int i=0;i<numStr.length();i++){
+        //  int digit=numStr.charAt(i)-'0';
+        //  }
+        //
+        //  adding a padding to a number;
+        //  %.2f this is the value
+        //
+        //  converting a stringbuilder type to string type
+        //  stringbuilder res=new stringbuilder();
+        //  String str=res.toString();
     }
 }
 
